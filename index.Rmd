@@ -1,5 +1,12 @@
 ---
-title: "My Website"
+title: "Welcome!"
 ---
 
-Hello, Website!
+<hr>
+
+
+Student of Appalachian State University!
+
+This website serves as my personal and professional portfolio. Included in the above tabs are resources about my academic history, in addition to a few specific examples of my work in mathematics. Also, some cool math links...
+
+<img src="AppLogo3.PNG" margin-right: 35px" align="right">

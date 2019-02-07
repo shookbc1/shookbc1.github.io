@@ -1,0 +1,23 @@
+---
+title: "Additional Links"
+output: html_document
+---
+
+<hr>
+
+## Neat Math!
+*-- Explore at your own risk --* 
+
+* [Hilbert's Problems](https://en.m.wikipedia.org/wiki/Hilbert%27s_problems)
+
+* [Koch's Snowflake](https://www.cut-the-knot.org/WhatIs/Infinity/Length-Area.shtml)
+
+* [Tau vs Pi](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
+
+* [Desmos meets Taylor](https://www.desmos.com/calculator/oiexhzavjp)
+
+* [The Amazing Leonhard Euler](http://www-history.mcs.st-and.ac.uk/Biographies/Euler.html)
+
+* [Fractals](https://mathigon.org/world/Fractals)
+
+* [The Golden Ratio](http://mathworld.wolfram.com/GoldenRatio.html)

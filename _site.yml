@@ -2,14 +2,32 @@ name: "my-website"
 output_dir: "."
 
 navbar:
-  title: "My Website"
+  title: "Blake C. Shook"
   left:
+    - text: "About"
+      href: about.html
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Additional Links"
+      href: addlinks.html
+  right:
+    - text: ""
+      icon: fa-github fa-lg
+      href: https://github.com/shookbc1/shookbc1.github.io
+
 
 output:
   html_document:
-    theme: default
-    highlight: default
+    theme: cosmo
+    highlight: textmate
+    include:
+    after_body: footer.html
+    css: alans.css
+
+# (put contact information somewhere...)
+# edit about me format
+# (embed linkedin)
+# (embed git)
+# (add projects) -- post assignment deadline

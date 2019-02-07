@@ -1,0 +1,19 @@
+---
+title: "About Me"
+---
+
+<hr>
+
+
+I'm a first generation college student and graduate from Appalachian State University
+
+Graduate of Challenger Early College High School
+
+I have a bachelors degree in Mathematics with a concentration in Science
+
+I'm from Hickory NC
+
+If I'm not doing crazy math stuff, I'm probably playing guitar or out in nature
+<img src="Capture.PNG" margin-right: 35px" align="right">
+
+*shookbc1@appstate.edu*

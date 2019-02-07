@@ -1,5 +1,103 @@
 ---
-title: "John Doe's Resume"
+title: "My Resume"
 ---
 
-Resume content.
+<hr>
+
+# **Career Objective**
+To obtain a General Mathematics degree and apply it to a job in Hickory NC.
+
+# **Education**
+### Challenger Early College High School				
+August 2012-May 2016
+
+Course of Study: University Prep Diploma				
+
+Hickory, North Carolina
+
+Graduation: May 2016					
+
+GPA: 4.04 Weighted
+
+### Catawba Valley Community College					
+August 2012-May 2016
+
+Course of Study: Associate’s of Arts					
+
+Hickory, North Carolina
+
+Graduation: May 2016					
+
+GPA: 3.48
+
+### Appalachian State University						
+August 2016-2019
+
+Course of Study: General Mathematics				
+
+Boone, North Carolina 
+
+Graduation: May 2019					
+
+Current GPA: 2.62
+
+# **Skills**
+* Proficient in Microsoft Excel (Specifically Simplex LP Solver)
+
+* Proficient in Microsoft Word
+
+* Proficient in Microsoft Outlook
+
+* Proficient in Microsoft Powerpoint
+
+* Certified Workkeys Gold
+
+
+* Proficient in StatCrunch
+
+* Moderate experience with R-Studio
+
+* Proficient in LaTeX
+
+* Experience with Geogebra
+
+* Proficient in Desmos
+
+* Experience with Mathematica
+
+* Moderate experience with Maple
+
+# **Work History** 
+Customer Service Manager:
+
+Lowes Foods (2013-present) 
+
+Resident Advisor: 
+
+Appalachian State (August 2017-2019)
+
+# **Community Service**
+29 hours at Habitat for Humanity 2013-2014
+11 hours Challenger Early College
+
+# **Organizations**
+SkillsUSA
+Co-founder of Challenger Early College Economics and Finance Club
+Appalachian State Math Club
+Appalachian State University Housing (Resident Advisor)
+
+# **Academic Achievements** 
+2013, 2014, 2015 SkillsUSA District Champion Quizbowl Competition  
+
+2015 SkillsUSA District/National Champion Entrepreneurship Competition
+
+# **Hobbies**
+Guitar
+
+DIY Projects
+
+Modeling Probability
+
+Mathematics
+
+Cycling
