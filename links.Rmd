@@ -16,7 +16,7 @@ output: html_document
 
 * [Desmos meets Taylor](https://www.desmos.com/calculator/oiexhzavjp)
 
-* [The Amazing Leonhard Euler](http://www-history.mcs.st-and.ac.uk/Biographies/Euler.html)
+* [Leonhard Euler](http://www-history.mcs.st-and.ac.uk/Biographies/Euler.html)
 
 * [Fractals](https://mathigon.org/world/Fractals)
 

@@ -26,8 +26,6 @@ output:
     after_body: footer.html
     css: alans.css
 
-# (put contact information somewhere...)
 # edit about me format
 # (embed linkedin)
-# (embed git)
 # (add projects) -- post assignment deadline
