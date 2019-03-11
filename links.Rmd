@@ -21,3 +21,5 @@ output: html_document
 * [Fractals](https://mathigon.org/world/Fractals)
 
 * [The Golden Ratio](http://mathworld.wolfram.com/GoldenRatio.html)
+
+* [Mandlebrot Sets](http://math.bu.edu/DYSYS/explorer/index.html)
