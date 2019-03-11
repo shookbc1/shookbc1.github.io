@@ -2,4 +2,4 @@
 title: "My Resume"
 ---
 
-Coming Soon!
+<img src="Resume.PNG" margin-right: 35px" align="center">
