@@ -2,4 +2,4 @@
 title: "My Resume"
 ---
 
-<img src="Resume.PNG" margin-right: 35px" align="center">
+<img src="PNGRESUME.PNG" margin-right: 35px" align="center">
